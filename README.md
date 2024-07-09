@@ -4,7 +4,8 @@ This application is a web-based system designed to manage user information and p
 
 [![image](https://github.com/chaitanya140/Cointab-Assignment/blob/main/Cointab%20Assignment.png)
 
-Project Type
+**Project Type**
+
 Fullstack
 
 deployed links :
