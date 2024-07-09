@@ -10,9 +10,9 @@ Fullstack
 
 # deployed links :
 
-frontend : <u>Cointab Assignment Frontend</u>
+frontend : <a href="#">Cointab Assignment Frontend</a>
 
-Backend : <u>Cointab Assignment Backend</u>
+Backend : <a href="#">Cointab Assignment Backend</a>
 
 # Features:
 
