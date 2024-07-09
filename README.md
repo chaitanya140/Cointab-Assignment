@@ -47,7 +47,7 @@ Backend : <a href="#">Cointab Assignment Backend</a>
 
 # Setup Instructions:
 
-1. Clone the Repository: git clone https://github.com/shraddha-gawde/Cointab-Assignment.git
+1. Clone the Repository: git clone https://github.com/chaitanya140/Cointab-Assignment
 2. Install Dependencies: cd backend && npm install
 3. create env file with related mongodb credintials.
 4. Database Configuration:
